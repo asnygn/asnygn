@@ -1,6 +1,6 @@
 ## :man_technologist: About Me
 
-I am a Full Stack Developer from Myanmar.
+I am a Software Developer from Myanmar.
 
 ## ⚡ Technologies
 
